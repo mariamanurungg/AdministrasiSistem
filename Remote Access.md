@@ -10,7 +10,7 @@
 + Untuk instalasi SSH (Secure Shell) sudah berhasil
 
 **2. Testing**
-+ Pada tahap testing ssh server akan dilakukan dari computer client, kali ini computer client menggunakan system operasi windows, untuk itu kita membutuhkan aplikasi tambahan yaitu Putty, untuk mendownloadnya silahkan akses <ins>https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html</ins>. Jika sudah mendownload, silahkan install dan jalankan maka tampilannya akan seperti gambar di bawah ini.
++ Pada tahap testing ssh server akan dilakukan dari computer client, kali ini computer client menggunakan system operasi windows, untuk itu kita membutuhkan aplikasi tambahan yaitu Putty, untuk mendownloadnya silahkan akses <ins>https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html</ins>. Jika sudah mendownload, silahkan install dan jalankan.
 ![Image](AST2_3.png)
 +  Selanjutnya masukkan alamat IP address yang kita gunakan (cek IP address dengan menjalankan command **ip a**). Kali ini saya menggunakan port bawaan dari sshnya yaitu port 22, tetapi jika ingin mengubah port yang digunakan anda bisa mengeditnya pada file konfigurasi utama pada ssh server.
 ![Image](AST2_4.png)
