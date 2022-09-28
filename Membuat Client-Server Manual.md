@@ -2,7 +2,7 @@
 
 **1. Client Server pada Linux Virtual Box dengan Windows**
 + Langkah pertama buka Linuxnya di VirtualBox kemudian masuk ke super user dengan command “su” dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command “sudo -i” dan masukkan password Linuxnya.
-![Image](tugas1no1_1.PNG)
+![Image](tugas1no1_1.png)
 + Setelah berhasil masuk ke super user buka wired settings dengan mengklik yang dilingkaran merah.
 ![Image](tugas1no1_2.PNG "Img")
 ![Image](tugas1no1_3.PNG "Img")
