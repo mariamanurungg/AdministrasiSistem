@@ -1,5 +1,5 @@
 ## Membuat Client-Server Manual
----
+
 **1. Client Server pada Linux Virtual Box dengan Windows**
 + <p style='text-align: justify;'>Langkah pertama buka Linuxnya di VirtualBox kemudian masuk ke super user dengan command “su” dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command “sudo -i” dan masukkan password Linuxnya.</p>
 ![Image](tugas1no1_1.PNG "Img")
