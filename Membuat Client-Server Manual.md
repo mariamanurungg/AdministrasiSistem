@@ -34,3 +34,4 @@
 ![Image](tugas1no1_17.png)
 
 **2. Client-Server pada 2 PC/Laptop menggunakan kabel LAN**
++ Hadang
