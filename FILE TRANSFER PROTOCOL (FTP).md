@@ -10,9 +10,9 @@
 ![Image](AST3_1.png)
 + Jika anda mengalami masalah seperti pada gambar di bawah
 ![Image](AST3_3.png)
-silahkan menjalankan command **nano /etc/apt/sources.list**
++ silahkan menjalankan command **nano /etc/apt/sources.list**
 ![Image](AST3_4.png)
-kemudian tambahkan **#** di depan **deb cdrom** baris ke-2 atau bisa juga text pada baris ke-2 tersebut dihapus.
++ kemudian tambahkan **#** di depan **deb cdrom** baris ke-2 atau bisa juga text pada baris ke-2 tersebut dihapus.
 ![Image](AST3_5.png)
 Simpan dan jalankan command **apt-get update** dan coba jalankan lagi command **apt-get install proftpd** untuk menginstall ulang.
 + Kali ini saya menggunakan settingan default yang ada pada aplikasi proftpd, namun jika anda membutuhkan konfigurasi pada FTP server anda, silahkan konfigurasikan pada file **/etc/proftpd/proftpd.conf.**
