@@ -14,7 +14,7 @@
 ![Image](AST3_4.png)
 + kemudian tambahkan **#** di depan **deb cdrom** baris ke-2 atau bisa juga text pada baris ke-2 tersebut dihapus.
 ![Image](AST3_5.png)
-Simpan dan jalankan command **apt-get update** dan coba jalankan lagi command **apt-get install proftpd** untuk menginstall ulang.
++ Simpan dan jalankan command **apt-get update** dan coba jalankan lagi command **apt-get install proftpd** untuk menginstall ulang.
 + Kali ini saya menggunakan settingan default yang ada pada aplikasi proftpd, namun jika anda membutuhkan konfigurasi pada FTP server anda, silahkan konfigurasikan pada file **/etc/proftpd/proftpd.conf.**
 + Selanjutnya pengujian pada proftpd, kali ini saya lakukan dengan menggunakan aplikasi **filezilla** yang akan diinstall pada computer client. Untuk itu silahkan download aplikasi tersebut pada <ins>https://filezilla-project.org/download.php</ins> jika sudah diinstall jalankan, maka tampilannya akan sebagai berikut:
 ![Image](AST3_2.png)
