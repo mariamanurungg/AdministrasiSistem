@@ -8,7 +8,7 @@
 + Langkah pertama buka Debian kemudian masuk ke super user dengan command **su** dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command **sudo -i** dan masukkan password Linuxnya.
 + Setelah berhasil masuk ke super user, silahkan install **proftpd** dengan menjalankan command **apt-get install proftpd**.
 ![Image](AST3_1.png)
-+ Jika anda mengalami masalah seperti pada gambar di bawah
+Jika anda mengalami masalah seperti pada gambar di bawah
 ![Image](AST3_3.png)
 silahkan menjalankan command **nano /etc/apt/sources.list**
 ![Image](AST3_4.png)
