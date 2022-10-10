@@ -41,11 +41,11 @@
 ![Image](tugas1no2_3.png)
 ![Image](tugas1no2_4.png)
 + Untuk windows (klien) bisa mengubah di **Advanced network settings** yang ada di windows
-![Image](tugas1no2_5.png)
-![Image](tugas1no2_6.png)
+![Image](tugas1no2_5.PNG)
+![Image](tugas1no2_6.PNG)
 + Pastikan port jaringan dan default gatewaynya sama
-![Image](tugas1no2_7.png)
-![Image](tugas1no2_8.png)
+![Image](tugas1no2_7.PNG)
+![Image](tugas1no2_8.PNG)
 + Selanjutnya mengubah settingan network di virtual box (server)
 ![Image](tugas1no2_9.png)
 ![Image](tugas1no2_10.png)
