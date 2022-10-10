@@ -34,4 +34,22 @@
 ![Image](tugas1no1_17.png)
 
 **2. Client-Server pada 2 PC/Laptop menggunakan kabel LAN**
-+ Hadang
++ Langkah pertama adalah menghubungkan dua atau lebih device, boleh laptop atau PC dan satu di antaranya akan dijadikan sebagai server.
++ Di tutorial kali ini saya menggunakan dua device yaitu linux dan windows. Saya mengkonfigurasi IP nya secara manual, caranya kurang lebih seperti pada tutorial sebelumnya, untuk linux (server) bisa mengubah settingan di wired setting
+![Image](tugas1no2_1.png)
+![Image](tugas1no2_2.png)
+![Image](tugas1no2_3.png)
+![Image](tugas1no2_4.png)
++ Untuk windows (klien) bisa mengubah di **Advanced network settings** yang ada di windows
+![Image](tugas1no2_5.png)
+![Image](tugas1no2_6.png)
++ Pastikan port jaringan dan default gatewaynya sama
+![Image](tugas1no2_7.png)
+![Image](tugas1no2_8.png)
++ Selanjutnya mengubah settingan network di virtual box (server)
+![Image](tugas1no2_9.png)
+![Image](tugas1no2_10.png)
++ Tahap terakhir yaitu testing dengan cara ping IP Address clien dan servernya, server ping clien dan clien ping server. Pastikan sebelumnya windows firewall yang ada di windows non aktif.
+![Image](tugas1no2_11.png)
+![Image](tugas1no2_12.png)
++ Selamat anda telah berhasil.
