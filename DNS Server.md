@@ -24,7 +24,6 @@ e. /etc/resolv.conf
 ![Image](img/AST5_7.png)
 ![Image](img/AST5_8.png)
 + Kemudian membuat file reverse, file reverse berfungsi untuk konversi dari IP Address menjadi DNS, misalnya jika kita mengetikkan ip address http://192.168.1.1 pada web browser, secara otomatis akan redirect ke alamat www.futra.com. Caranya copy file db.127 dengan command **cp db.127 db.192** kemudian konfigurasi file db.192 dengan command **nano db.futra**, Lakukan konfigurasi seperti pada gambar
-
 ![Image](img/AST5_9.png)
 +  Kemudian membuat Zone Domain. Edit tambahkan konfigurasi untuk forward dan reverse pada file named.conf.options dan named.conf.local. Langkah pertama kita konfigurasi pada file named.conf.options dengan command **nano named.conf.options** kemudian ubah konfigurasinya sepeti gambar dibawah ini yang diberi tanda merah. Kemudian langkah kedua kita konfigurasi named.conf.local dengan command **nano named.conf.local** kemudian tambahkan konfigurasinya seperti gambar dibawah ini yang diberi tanda merah.
 ![Image](img/AST5_10.png)
