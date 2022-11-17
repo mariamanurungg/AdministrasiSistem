@@ -18,4 +18,3 @@
 ![Image](img/AST7_6.png)
 + Isi dengan Username = root, Password = (password yang kalian masukkan pada saat installasi)
 + Selamat bagi anda yang sudah berhasil, untuk yang belum semangat untuk mencoba lagi.
-</justify>
