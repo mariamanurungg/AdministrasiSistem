@@ -20,7 +20,7 @@ b. File reverse
 c. named.conf.options
 d. named.conf.local
 e. /etc/resolv.conf 
-+ Membuat file forward, file forward berfungsi untuk konversi dari DNS menjadi IP Address, misalnya www.futra.com melalui web browser, maka akan muncul website dari server debian. Caranya copy file db.local dengan command **cp db.local db.futra** kemudian konfigurasi file db.futra dengan command **nano db.futra**, Lakukan konfigurasi seperti gambar dibawah ini
++ Membuat file forward, file forward berfungsi untuk konversi dari DNS menjadi IP Address, misalnya www.futra.com melalui web browser, maka akan muncul website dari server debian. Caranya copy file db.local dengan command **cp db.local db.futra** kemudian konfigurasi file db.futra dengan command **nano db.futra**, Lakukan konfigurasi seperti pada gambar
 ![Image](img/AST5_7.png)
 ![Image](img/AST5_8.png)
 + Kemudian membuat file reverse, file reverse berfungsi untuk konversi dari IP Address menjadi DNS, misalnya jika kita mengetikkan ip address http://192.168.1.1 pada web browser, secara otomatis akan redirect ke alamat www.futra.com. Caranya copy file db.127 dengan command **cp db.127 db.192** kemudian konfigurasi file db.192 dengan command **nano db.futra**, Lakukan konfigurasi seperti gambar dibawah ini
