@@ -11,7 +11,7 @@
 ![Image](img/AST5_3.png)
 ![Image](img/AST5_4.png)
 + Jika sudah, restart IP dengan command **/etc/init.d/networking restart** atau restart manual dan cek IP sudah berhasil atau belum dengan perintah ip a.
-
++
 ![Image](img/AST5_5.png)
 + Selanjutnya install bind9 pastikan anda terhubung dengan internet boleh dicek dengan menjalankan command **ping 8.8.8.8**, setelah itu jalankan command **apt-get install bind9** jika ada pertanyaan [y/n] klik y kemudian enter. Untuk memastikan instalisasi sudah berhasil jalankan command **apt-get install bind9** maka tampilannya akan seperti berikut
 ![Image](img/AST5_6.png)
