@@ -13,6 +13,6 @@
 ![Image](img/AST6_3.png)
 + Untuk modul ini kita akan menguji menggunakan script php untuk menampilkan info php pada server kita, Kita akan membuat skrip php pada folder **/var/www**. Silahkan jalankan command **nano /var/www/html/test.php**. Setelah itu masukkan skrip seperti pada gambar
 ![Image](img/AST6_4.png)
-+ Silahkan buka browser dalam linuxnya lalu ketikkan **(IP server kalian)/test.php**. Maka akan muncul laman tentang info dari php yang kita install pada server tadi
++ Buka browser linuxnya lalu ketikkan **(IP server kalian)/test.php**. Maka akan muncul laman tentang info dari php yang kita install pada server
 ![Image](img/AST6_5.png)
 + Selamat bagi anda yang sudah berhasil, untuk yang belum semangat untuk mencoba lagi.
