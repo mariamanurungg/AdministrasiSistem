@@ -3,7 +3,7 @@
 > 1. Futra S Hutasoit (2010131210002)
 > 2. Muhammad Iman Rizqullah (2010131210017)
 > 3. Muhammad Riza Nugroho (2010131210005)
-
+<justify>
 **1. Instalasi**
 + Login ke debian dengan menggunakan user root dengan cara menjalankan command **su** atau **sudo -i** setelah itu jalankan command **apt-get install mysql-server** untuk menginstall database pada server kita, jika ada keterangan "Package 'mysql-server' has no installation candidate" coba jalankan command **apt-get install default-mysql-server**.
 ![Image](img/AST7_1.png)
@@ -18,3 +18,4 @@
 ![Image](img/AST7_6.png)
 + Isi dengan Username = root, Password = (password yang kalian masukkan pada saat installasi)
 + Selamat bagi anda yang sudah berhasil, untuk yang belum semangat untuk mencoba lagi.
+</justify>
