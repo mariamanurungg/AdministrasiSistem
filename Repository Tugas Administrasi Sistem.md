@@ -1,4 +1,4 @@
-# <center>Akun Github Mahasiswa Mata Kuliah Sistem Operasi</center>
+## <center>Akun Github Mahasiswa Mata Kuliah Sistem Operasi</center>
 
 - **Mata Kuliah Sistem Operasi**
 - **Dosen Pengampu :**
@@ -7,7 +7,7 @@
 - **Kamis, Pukul 14.20-16.10, Ruang F. Hasan**
 
 
-| NIM | Nama | Link | Repository Tugas Sistem Operasi |
+| NIM | Nama | Link | Repo Tugas Sistem Operasi |
 | ----------- | :---------: | :---------- | ---------- |
 | 2010131210002 | FUTRA S HUTASOIT | https://github.com/arie-zeno | https://github.com/arie-zeno/Tugas_Sistem_Operasi |
 | 2010131210005 | MUHAMMAD RIZA NUGROHO | https://github.com/adymutalib | https://github.com/adymutalib/Tugas_Sistem_Operasi |
