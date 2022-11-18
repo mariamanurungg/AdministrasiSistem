@@ -23,11 +23,11 @@
 | 1710131310039 | SAMIAJI SANTOSO |  |  |
 | 1810131110007 | MUHAMAD DINAR SALIHIN | https://github.com/DNRSAL | https://github.com/DNRSAL/admin-sistem |
 | 1810131210001 | AHMAD FIRDAUS | https://github.com/firdaus7neo |  |
-| 1810131210009 | MUHAMMAD HARIS |  |  |
+| 1810131210009 | MUHAMMAD HARIS | https://github.com/Haris0210 | https://github.com/Haris0210/Administrasi-Sistem |
 | 1810131210026 | MADE APIAWAN ANARKY | https://github.com/madeapiawan1 | https://github.com/madeapiawan1/Administrasi-Sistem- |
 | 1810131220011 | ILAHIDAH FAH NGESTU | https://github.com/Ilahidah | https://github.com/Ilahidah/Admsys |
 | 1810131310001 | ARYO RIDHO SURYANGGI | https://github.com/AryoRidho | https://github.com/AryoRidho/Administrasi-Sistem- |
-| 1810131310005 | MUHAMMAD HARUN AL RASYID |  |  |
+| 1810131310005 | MUHAMMAD HARUN AL RASYID | https://github.com/Harun0825 | https://github.com/Harun0825/administrasi-sistem |
 | 1810131310009 | MUHAMMAD FADIL HIDAYAT | https://github.com/MuhammadFadilHidayat | https://github.com/MuhammadFadilHidayat/Administrasi-Sistem |
 | 1810131310027 | HASANUDDIN |  |  |
 | 1810131310035 | AHMAD HUSNI |  |  |
