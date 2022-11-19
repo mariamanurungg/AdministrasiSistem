@@ -1,4 +1,4 @@
-## <center>Akun Github Mahasiswa Mata Kuliah Sistem Operasi</center>
+## <center>Akun Github Mahasiswa Mata Kuliah Administrasi Sistem</center>
 
 - **Mata Kuliah Sistem Operasi**
 - **Dosen Pengampu :**
